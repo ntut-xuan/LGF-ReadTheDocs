@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LeistungsstarkesGameFramework'
+copyright = '2023, Uriah Xuan'
+author = 'Huang, Han-Xuan'
 
-release = '0.1'
-version = '0.1.0'
+release = 'v1.1.3'
+version = 'v1.1.3'
 
 # -- General configuration
 
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxemoji.sphinxemoji'
 ]
 
 intersphinx_mapping = {

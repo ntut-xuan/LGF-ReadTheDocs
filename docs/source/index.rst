@@ -1,22 +1,22 @@
-Welcome to Lumache's documentation!
-===================================
+LGF 使用手冊
+==========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+這是一個 LGF（LeistungsstarkesGameFramework）的使用手冊，介紹了 LGF 如何使用。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+LGF（LeistungsstarkesGameFramework）是基於陳偉凱老師在 2004 年發佈的 Game Framework 所衍伸出的維護版本。
+在這份專案中，我們不保證專案能夠長期維護，但我們對其做了文件化與程式碼的重構，並且做出了較能夠被學生所接受的修改。
 
-.. note::
+特別銘謝 2023 年修習物件導向程式設計實習的同學，幫助我提供了這份專案大致上的 Bug 與框架方面的意見，讓我能夠做出修復並且做出了大致上普遍能夠認同的發行版。
 
-   This project is under active development.
+通過這份使用手冊，你可以：
+ - 查看 :doc:`/quick_start` 來快速入門這個遊戲框架
+ - 確認 Version 來觀看如何更新
+ - 查看 Tutorial 來知道怎麼使用這個框架
+ - 查看 How-To 章節來取得怎麼在這個框架上做事情。
 
-Contents
---------
+章節
+===========================================
 
 .. toctree::
 
-   usage
-   api
+   quick_start
