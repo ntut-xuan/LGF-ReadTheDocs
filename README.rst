@@ -5,4 +5,4 @@ This is the documentation repository contains various information about `Leistun
 
 The documentation deploy on `ReadTheDocs <https://readthedocs.org/>`_ currently. 
 
-You can see the documentation in `LGF 使用手冊 - ReadTheDocs <https://lgf-readthedocs.readthedocs.io/en/latest/index.html>`_
+You can see the documentation in `LGF 使用手冊 - ReadTheDocs <https://lgf-readthedocs.readthedocs.io/zh_TW/latest/>`_
