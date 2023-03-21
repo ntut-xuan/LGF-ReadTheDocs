@@ -28,7 +28,7 @@ LGF 是基於陳偉凱老師在 2004 年發佈的 Game Framework 所衍伸出的
 通過這份使用手冊，你可以：
  - 查看 :doc:`/quick_start` 來快速入門這個遊戲框架。
  - 確認 Version 來查看如何更新。
- - 查看 Tutorial 來知道怎麼使用這個框架。
+ - 查看 :doc:`/tutorial` 來知道怎麼使用這個框架。
  - 查看 How-To 章節來取得怎麼在這個框架上做事情。
 
 
@@ -56,3 +56,9 @@ LGF 是基於陳偉凱老師在 2004 年發佈的 Game Framework 所衍伸出的
   :caption: 📜 教學
   
   tutorial
+
+.. toctree::
+  :maxdepth: 3
+  :caption: ⏩ How-to
+
+  how_to
