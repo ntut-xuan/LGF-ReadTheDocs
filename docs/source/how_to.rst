@@ -261,7 +261,7 @@ LGF 支援你修改印出的字體屬性，並套用到現在的 CDC 上。
 
 我們可以使用 ``ofstream`` 來寫入特定檔案。
 
-對於更多詳細訊息，見 `https://cplusplus.com/reference/fstream/ifstream/ifstream/ <https://cplusplus.com/reference/fstream/ifstream/ifstream/>`_
+對於更多詳細訊息，見 `https://cplusplus.com/reference/fstream/ofstream/ofstream/ <https://cplusplus.com/reference/fstream/ofstream/ofstream//>`_
 
 .. warning::
     請記得在寫入完成後，使用 ``close()`` 成員來關閉 ``ofstream``，以確保資料能夠正確寫入。
