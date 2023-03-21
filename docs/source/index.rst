@@ -59,6 +59,8 @@ LGF 是基於陳偉凱老師在 2004 年發佈的 Game Framework 所衍伸出的
 
 .. toctree::
   :maxdepth: 3
-  :caption: ⏩ How-to
-
-  how_to
+  :caption: ⏩ How-To
+  
+  tutorial/how_to_text
+  tutorial/how_to_image
+  tutorial/how_to_file
