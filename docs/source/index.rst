@@ -66,3 +66,5 @@ LGF 是基於陳偉凱老師在 2004 年發佈的 Game Framework 所衍伸出的
   how_to/how_to_text
   how_to/how_to_image
   how_to/how_to_file
+  how_to/how_to_about
+  how_to/how_to_icon
