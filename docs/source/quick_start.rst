@@ -60,8 +60,6 @@
  -  x86 與 x64 版 C++ MFC
  -  Windows 10 SDK
 
-.. image:: https://media.discordapp.net/attachments/989547753606631486/1211036070557257829/image.png?ex=65ecbc3b&is=65da473b&hm=2c950e40d5ace4289f8984d1d82c55d6fb8b0c2b7e61ed7c4e71f792342977bd&=&format=webp&quality=lossless
-
 當你完成安裝後，你就能夠開始嘗試建置專案。
 
 
