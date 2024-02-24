@@ -60,7 +60,7 @@
  -  x86 與 x64 版 C++ MFC
  -  Windows 10 SDK
 
-.. image:: https://camo.githubusercontent.com/479ab0431d283e1a03a2df0003e8deeecd28b1829283c0c7a96916aa2467b290/68747470733a2f2f692e696d6775722e636f6d2f7a786630636b792e706e67
+.. image:: https://media.discordapp.net/attachments/989547753606631486/1211036070557257829/image.png?ex=65ecbc3b&is=65da473b&hm=2c950e40d5ace4289f8984d1d82c55d6fb8b0c2b7e61ed7c4e71f792342977bd&=&format=webp&quality=lossless
 
 當你完成安裝後，你就能夠開始嘗試建置專案。
 
@@ -69,7 +69,5 @@
 ---------------------
 
 當一切完成後，開啟框架練習專案的 ``game.sln``，檔案，接著你就可以使用「本機 Windows 偵錯工具」來嘗試建置專案。
-
-.. image:: https://camo.githubusercontent.com/d6e78d01c032677c6c2cc91d81c1edcad500dcdb11090787635c631b06e16b40/68747470733a2f2f692e696d6775722e636f6d2f3250334973364a2e706e67
 
 當你成功建置練習專案後，你應可以看到練習開始的畫面。若你使用的是無更改的專案，你應可以看到進度條與遊戲畫面。
